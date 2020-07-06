@@ -39,3 +39,31 @@
     color: #000;  
     transition: 0.3s;
 }
+
+.secondHeaderContainer{
+    width: 400px;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+    
+.instagramContainer{
+    margin-right: 20px;    
+}
+
+.instagramContainer svg, .whatsappContainer svg{
+    font-size: 30px;
+    color: #aca39d;
+    margin-right: 5px;
+}
+
+.instagramContainer span , .whatsappContainer span{
+    font-family: 'Pacifico', cursive;
+    color: #aca39d;
+}
+
+.instagramContainer, .whatsappContainer{    
+    display: flex;    
+    align-items: center;
+}
+
