@@ -1,0 +1,41 @@
+.header{
+    width: 100%;
+    height: 200px;
+}
+
+.headerContainer{
+    display: flex;
+    align-items: center;
+}
+
+.firstHeaderContainer{
+    display: flex;
+    align-items: center;
+    width: 70%;
+}
+
+.headerLogo{
+    opacity: 0.65;
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+}
+
+.headerLinks{
+    display: flex;
+    width: 50%;
+    list-style: none;
+    justify-content: space-evenly;    
+    font-family: 'Pacifico', cursive;
+    font-size: 22px;   
+}
+
+.headerLinks a{
+    text-decoration: none;
+    color: #aca39d;  
+}
+
+.headerLinks a:hover{
+    color: #000;  
+    transition: 0.3s;
+}
