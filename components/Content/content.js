@@ -12,7 +12,7 @@ function Content() {
                             Venha conhecer!<br/>
                             São feitos com carinho                
                         </h2>
-                        <span>Lorem teste dolor sit amet, consectetur adipiscing elit.</span>
+                        <span>Doces teste dolor sit amet, consectetur adipiscing elit.</span>
                         <a href="#" className={styles.welcomeButton}>Mais doces</a>
                     </section>
                 </article>
