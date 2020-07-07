@@ -1,0 +1,42 @@
+.containerGeneral{
+    display: flex;
+    margin-left: 50px;
+}
+
+.containerContent{
+    display: flex;
+    justify-content: space-between;
+}
+
+.welcomeContainer{
+    width: 100%;
+    padding: 20px;
+    height: auto;
+    align-items: center;
+}
+.welcomeContainer h2{
+    line-height: 40px;
+    margin-bottom: 20px;
+    font-size: 34px;
+}
+
+.welcomeButton{
+    font-family: 'Nunito', sans-serif;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+    background: #ad817a;
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 3px;
+    opacity: 1;
+    transition: 0.3s;
+    font-weight: bold;
+}
+
+.welcomeButton:hover{    
+    opacity: 0.6;
+}
