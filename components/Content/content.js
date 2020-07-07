@@ -9,10 +9,10 @@ function Content() {
                 <article className={styles.containerGeneral}>
                     <section className={styles.welcomeContainer}>
                         <h2>
-                            Venha conhecer! <br/>
+                            Venha conhecer!<br/>
                             São feitos com carinho                
                         </h2>
-                        <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+                        <span>Lorem teste dolor sit amet, consectetur adipiscing elit.</span>
                         <a href="#" className={styles.welcomeButton}>Mais doces</a>
                     </section>
                 </article>
