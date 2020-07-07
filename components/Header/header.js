@@ -7,7 +7,7 @@ function Header () {
         <header className={styles.header}>
             <div className={styles.headerContainer}>
                 <div className={styles.firstHeaderContainer}>
-                    <img className={styles.headerLogo} src="/header-logo.jpg" alt="Logo header"/>
+                    <img className={styles.headerLogo} src="/sweet-chef.png" alt="Logo header"/>
                     <ul className={styles.headerLinks}>
                         <a href=""> <li>Home</li></a>
                         <a href=""> <li>Contato</li></a>                        
