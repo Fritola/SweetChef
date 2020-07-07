@@ -12,12 +12,11 @@ function Content() {
                             Venha conhecer!<br/>
                             São feitos com carinho                
                         </h2>
-                        <span>Doces teste dolor sit amet, consectetur adipiscing elit.</span>
-                        <a href="#" className={styles.welcomeButton}>Mais doces</a>
+                        <span>Doces nos melhores preços!</span>
+                        <a href="#" className={styles.welcomeButton}>Veja mais</a>
                     </section>
                 </article>
-                
-                <SliderSlick />
+                                
             </div>
         </>
 
